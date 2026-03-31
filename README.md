@@ -13,6 +13,22 @@ It shows:
 The main app (and your tasks) stay inside Super Productivity — this is just a
 read‑only Today panel for your desktop.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/overlay-desktop-1.png"
+       alt="Super Productivity Today Overlayed apps /shrinked"
+       width="350">
+</p>
+
+<p align="center">
+  <img src="screenshots/overlay-desktop-2.jpg"
+       alt="Super Productivity Today Overlayed apps /grown"
+       width="350">
+</p>
+
+
+
 ## Requirements
 
 - Linux + X11 (tested on Linux Mint Cinnamon)
