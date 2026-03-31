@@ -1,0 +1,15 @@
+{
+  "width": 360,
+  "max_tasks": 0,
+  "refresh_ms": 1000,
+  "show_done": true,
+  "sticky": true,
+  "position_mode": "bottom_right",
+  "manual_position": false,
+  "bottom_gap": 26,
+  "pin_from_top": 112,
+  "gap_right": 0,
+  "x": null,
+  "y": null
+}
+
