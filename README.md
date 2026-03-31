@@ -15,16 +15,17 @@ read‑only Today panel for your desktop.
 
 ## Screenshots
 
+## Screenshots
+
 <p align="center">
   <img src="screenshots/overlay-desktop-1.png"
        alt="Super Productivity Today Overlayed apps /shrinked"
-       width="350">
-</p>
-
-<p align="center">
+       width="350"
+       style="margin-right: 12px;">
   <img src="screenshots/overlay-desktop-2.jpeg"
        alt="Super Productivity Today Overlayed apps /grown"
-       width="350">
+       width="350"
+       style="margin-left: 12px;">
 </p>
 
 
